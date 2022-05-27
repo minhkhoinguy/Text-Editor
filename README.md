@@ -75,7 +75,7 @@ The following image shows the web application's appearance:
 ## Link
 [Github Repo](https://github.com/minhkhoinguy/Text-Editor)
 
-[Deploy](https://)
+[Deploy]([https://](https://mkn-text-editor.herokuapp.com/))
 
 ## Contact
 Contact me with the link below if you have any questions!
