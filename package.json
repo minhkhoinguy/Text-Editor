@@ -1,7 +1,7 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
-  "description": "",
+  "description": "![license](https://img.shields.io/badge/license-MIT-brightgreen)",
   "main": "server.js",
   "scripts": {
     "start:dev": "",
@@ -21,5 +21,13 @@
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhkhoinguy/Text-Editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minhkhoinguy/Text-Editor/issues"
+  },
+  "homepage": "https://github.com/minhkhoinguy/Text-Editor#readme"
 }
