@@ -57,17 +57,16 @@ THEN I should have proper build scripts for a webpack application
 ## Mock-Up
 The following image shows the web application's appearance:
 
-<img src="./pictures/testingImage.gif">
+<img src="./Assets/manifest.png">
+<img src="./Assets/serviceworkers.png">
+<img src="./Assets/storage.png">
 
 ## Tech
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 - [Express.js](https://expressjs.com/)
 - [Node.js](https://nodejs.org/en/)
 - [Sequelize](https://sequelize.org/)
 - [MySQL2](https://www.npmjs.com/package/mysql2)
-- [Handlebars](https://handlebarsjs.com/)
 - [Heroku](https://dashboard.heroku.com/)
 
 ## License
